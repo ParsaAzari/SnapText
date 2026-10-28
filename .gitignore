@@ -1,0 +1,17 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+
+# Build Artifacts
+build/
+DerivedData/
+*.dSYM
+
+# Temporary & Cache Files
+*.bak
+*.tmp
+*.swp
+*~
